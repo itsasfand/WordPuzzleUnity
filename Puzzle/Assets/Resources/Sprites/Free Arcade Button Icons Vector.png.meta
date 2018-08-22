@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 63899a399332ba949b26d6c1c2b51b79
+timeCreated: 1493616184
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Free Arcade Button Icons Vector_0
+    21300002: Free Arcade Button Icons Vector_1
+    21300004: Free Arcade Button Icons Vector_2
+    21300006: Free Arcade Button Icons Vector_3
+    21300008: Free Arcade Button Icons Vector_4
+    21300010: Free Arcade Button Icons Vector_5
+    21300012: Free Arcade Button Icons Vector_6
+    21300014: Free Arcade Button Icons Vector_7
+    21300016: Free Arcade Button Icons Vector_8
+    21300018: Free Arcade Button Icons Vector_9
+    21300020: Free Arcade Button Icons Vector_10
+    21300022: Free Arcade Button Icons Vector_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Free Arcade Button Icons Vector_0
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2613
+        width: 1160
+        height: 1196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Free Arcade Button Icons Vector_1
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 2613
+        width: 1160
+        height: 1196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Free Arcade Button Icons Vector_2
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 2613
+        width: 1160
+        height: 1196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Free Arcade Button Icons Vector_3
+      rect:
+        serializedVersion: 2
+        x: 4259
+        y: 2613
+        width: 1160
+        height: 1196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Free Arcade Button Icons Vector_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1313
+        width: 1158
+        height: 1197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Free Arcade Button Icons Vector_5
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1313
+        width: 1160
+        height: 1197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Free Arcade Button Icons Vector_6
+      rect:
+        serializedVersion: 2
+        x: 2815
+        y: 1313
+        width: 1160
+        height: 1197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Free Arcade Button Icons Vector_7
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 1313
+        width: 1158
+        height: 1197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Free Arcade Button Icons Vector_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1159
+        height: 1196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Free Arcade Button Icons Vector_9
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 1160
+        height: 1196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Free Arcade Button Icons Vector_10
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 0
+        width: 1160
+        height: 1196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Free Arcade Button Icons Vector_11
+      rect:
+        serializedVersion: 2
+        x: 4277
+        y: 0
+        width: 1159
+        height: 1196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
